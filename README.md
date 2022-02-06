@@ -1,5 +1,5 @@
 # Setup NodeJS
-Setup para aplicações NodeJS utilizando TypeScrip
+Setup para aplicações NodeJS utilizando TypeScript
 # Start
 Instalação das dependências </br>
 `yarn`</br>
